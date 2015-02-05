@@ -1,0 +1,8 @@
+﻿<div class="div-table-row">
+    <div class="div-table-col"><%row%></div>
+    <div class="div-table-col"><%article_uid%></div>
+    <div class="div-table-col"><%startdate%></div>
+    <div class="div-table-col"><%category%></div>
+    <div class="div-table-col"><%heading%></div>
+    <div class="div-table-col"><%gallery%></div>
+</div> 

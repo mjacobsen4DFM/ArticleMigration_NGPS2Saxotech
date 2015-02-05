@@ -1,0 +1,19 @@
+﻿<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>{title}</title>
+</head>
+<body>
+ <script src="js/jquery-1.8.3.min.js" type="text/javascript"></script>
+    <div>
+    <div id="head" runat="server" style="font-size:large; font-family:Arial">
+		{head}
+    </div>
+    <div id="gallery" runat="server">
+    </div>
+    <div id="body" runat="server" style="font-size:medium;font-family:Arial">
+    {body}
+    </div>
+    </div>
+    {smugtag}
+</body>
+</html>

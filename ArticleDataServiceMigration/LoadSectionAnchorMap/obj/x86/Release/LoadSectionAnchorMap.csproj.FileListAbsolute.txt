@@ -1,0 +1,8 @@
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\LoadSectionAnchorMap\bin\Release\LoadSectionAnchorMap.exe.config
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\LoadSectionAnchorMap\bin\Release\LoadSectionAnchorMap.exe
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\LoadSectionAnchorMap\bin\Release\LoadSectionAnchorMap.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\LoadSectionAnchorMap\bin\Release\DataModels.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\LoadSectionAnchorMap\bin\Release\DataModels.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\LoadSectionAnchorMap\obj\x86\Release\LoadSectionAnchorMap.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\LoadSectionAnchorMap\obj\x86\Release\LoadSectionAnchorMap.exe
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\LoadSectionAnchorMap\obj\x86\Release\LoadSectionAnchorMap.pdb

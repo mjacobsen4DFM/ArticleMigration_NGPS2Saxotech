@@ -1,0 +1,11 @@
+C:\apps\ArticleDataServiceMigration\ArticleDataDbEntity\bin\Release\ArticleDataDbEntity.dll.config
+C:\apps\ArticleDataServiceMigration\ArticleDataDbEntity\bin\Release\ArticleDataDbEntity.dll
+C:\apps\ArticleDataServiceMigration\ArticleDataDbEntity\bin\Release\ArticleDataDbEntity.pdb
+C:\apps\ArticleDataServiceMigration\ArticleDataDbEntity\bin\Release\ArticleDataDbEntity.xml
+C:\apps\ArticleDataServiceMigration\ArticleDataDbEntity\obj\Release\ResolveAssemblyReference.cache
+C:\apps\ArticleDataServiceMigration\ArticleDataDbEntity\obj\Release\ArticleDataDbEntity.Resources.resources
+C:\apps\ArticleDataServiceMigration\ArticleDataDbEntity\obj\Release\GenerateResource.read.1.tlog
+C:\apps\ArticleDataServiceMigration\ArticleDataDbEntity\obj\Release\GenerateResource.write.1.tlog
+C:\apps\ArticleDataServiceMigration\ArticleDataDbEntity\obj\Release\ArticleDataDbEntity.dll
+C:\apps\ArticleDataServiceMigration\ArticleDataDbEntity\obj\Release\ArticleDataDbEntity.xml
+C:\apps\ArticleDataServiceMigration\ArticleDataDbEntity\obj\Release\ArticleDataDbEntity.pdb

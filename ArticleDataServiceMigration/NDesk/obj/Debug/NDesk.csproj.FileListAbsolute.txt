@@ -1,0 +1,9 @@
+C:\apps\ArticleDataServiceMigration\NDesk\bin\Debug\NDesk.dll
+C:\apps\ArticleDataServiceMigration\NDesk\bin\Debug\NDesk.pdb
+C:\apps\ArticleDataServiceMigration\NDesk\obj\Debug\NDesk.dll
+C:\apps\ArticleDataServiceMigration\NDesk\obj\Debug\NDesk.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NDesk\bin\Debug\NDesk.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NDesk\bin\Debug\NDesk.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NDesk\obj\Debug\NDesk.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NDesk\obj\Debug\NDesk.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NDesk\obj\Debug\NDesk.pdb

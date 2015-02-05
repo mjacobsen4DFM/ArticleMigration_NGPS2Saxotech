@@ -1,0 +1,13 @@
+c:\apps\ArticleDataServiceMigration\SmugMugCleanUp\bin\Release\SmugMugCleanUp.exe.config
+c:\apps\ArticleDataServiceMigration\SmugMugCleanUp\bin\Release\SmugMugCleanUp.exe
+c:\apps\ArticleDataServiceMigration\SmugMugCleanUp\bin\Release\SmugMugCleanUp.pdb
+c:\apps\ArticleDataServiceMigration\SmugMugCleanUp\bin\Release\DbCommon.dll
+c:\apps\ArticleDataServiceMigration\SmugMugCleanUp\bin\Release\SmugMugModel.dll
+c:\apps\ArticleDataServiceMigration\SmugMugCleanUp\bin\Release\JSONDotNET.dll
+c:\apps\ArticleDataServiceMigration\SmugMugCleanUp\bin\Release\JSONDotNET.pdb
+c:\apps\ArticleDataServiceMigration\SmugMugCleanUp\bin\Release\SmugMugModel.pdb
+c:\apps\ArticleDataServiceMigration\SmugMugCleanUp\bin\Release\DbCommon.pdb
+c:\apps\ArticleDataServiceMigration\SmugMugCleanUp\bin\Release\DbCommon.xml
+c:\apps\ArticleDataServiceMigration\SmugMugCleanUp\obj\Release\ResolveAssemblyReference.cache
+c:\apps\ArticleDataServiceMigration\SmugMugCleanUp\obj\Release\SmugMugCleanUp.exe
+c:\apps\ArticleDataServiceMigration\SmugMugCleanUp\obj\Release\SmugMugCleanUp.pdb

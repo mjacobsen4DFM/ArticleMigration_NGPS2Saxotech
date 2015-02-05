@@ -1,0 +1,25 @@
+C:\apps\ArticleDataServiceMigration\ProfileTree\bin\Release\ProfileTree.exe.config
+C:\apps\ArticleDataServiceMigration\ProfileTree\bin\Release\ProfileTree.exe
+C:\apps\ArticleDataServiceMigration\ProfileTree\bin\Release\ProfileTree.pdb
+C:\apps\ArticleDataServiceMigration\ProfileTree\bin\Release\ArticleDataDbEntity.dll
+C:\apps\ArticleDataServiceMigration\ProfileTree\bin\Release\BusinessRuleC.dll
+C:\apps\ArticleDataServiceMigration\ProfileTree\bin\Release\OWC.dll
+C:\apps\ArticleDataServiceMigration\ProfileTree\bin\Release\ArticleDataDbEntity.pdb
+C:\apps\ArticleDataServiceMigration\ProfileTree\bin\Release\ArticleDataDbEntity.xml
+C:\apps\ArticleDataServiceMigration\ProfileTree\bin\Release\BusinessRuleC.pdb
+C:\apps\ArticleDataServiceMigration\ProfileTree\bin\Release\OWC.pdb
+C:\apps\ArticleDataServiceMigration\ProfileTree\obj\x86\Release\ResolveAssemblyReference.cache
+C:\apps\ArticleDataServiceMigration\ProfileTree\obj\x86\Release\ProfileTree.exe
+C:\apps\ArticleDataServiceMigration\ProfileTree\obj\x86\Release\ProfileTree.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ProfileTree\bin\Release\ProfileTree.exe.config
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ProfileTree\bin\Release\ProfileTree.exe
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ProfileTree\bin\Release\ProfileTree.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ProfileTree\bin\Release\BusinessRuleC.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ProfileTree\bin\Release\DataModels.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ProfileTree\bin\Release\OWC.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ProfileTree\bin\Release\BusinessRuleC.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ProfileTree\bin\Release\DataModels.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ProfileTree\bin\Release\OWC.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ProfileTree\obj\x86\Release\ProfileTree.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ProfileTree\obj\x86\Release\ProfileTree.exe
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ProfileTree\obj\x86\Release\ProfileTree.pdb

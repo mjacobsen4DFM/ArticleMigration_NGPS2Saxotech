@@ -1,0 +1,38 @@
+C:\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\UpdateViewUri.exe.config
+C:\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\UpdateViewUri.exe
+C:\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\UpdateViewUri.pdb
+C:\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\BusinessRule.dll
+C:\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\DataAuthentication.dll
+C:\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\OWC.dll
+C:\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\UncAccess.dll
+C:\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\DbCommon.dll
+C:\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\BusinessRule.pdb
+C:\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\BusinessRule.xml
+C:\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\DataAuthentication.pdb
+C:\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\DataAuthentication.xml
+C:\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\OWC.pdb
+C:\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\UncAccess.pdb
+C:\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\DbCommon.pdb
+C:\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\DbCommon.xml
+C:\apps\ArticleDataServiceMigration\UpdateViewUri\obj\x86\Release\ResolveAssemblyReference.cache
+C:\apps\ArticleDataServiceMigration\UpdateViewUri\obj\x86\Release\UpdateViewUri.exe
+C:\apps\ArticleDataServiceMigration\UpdateViewUri\obj\x86\Release\UpdateViewUri.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\UpdateViewUri.exe.config
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\UpdateViewUri.exe
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\UpdateViewUri.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\BusinessRule.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\DataAuthentication.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\OWC.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\UncAccess.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\DbCommon.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\BusinessRule.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\BusinessRule.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\DataAuthentication.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\DataAuthentication.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\OWC.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\UncAccess.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\DbCommon.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UpdateViewUri\bin\Release\DbCommon.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UpdateViewUri\obj\x86\Release\UpdateViewUri.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UpdateViewUri\obj\x86\Release\UpdateViewUri.exe
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UpdateViewUri\obj\x86\Release\UpdateViewUri.pdb

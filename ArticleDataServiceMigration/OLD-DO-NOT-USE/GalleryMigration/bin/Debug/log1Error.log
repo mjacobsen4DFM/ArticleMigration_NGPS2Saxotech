@@ -1,0 +1,17 @@
+ message:Article uid: 16126137 The remote server returned an error: (400) Bad Request. 
+ message:'', hexadecimal value 0x1A, is an invalid character. Line 1, position 236.    at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.Throw(String res, String[] args)
+   at System.Xml.XmlTextReaderImpl.Throw(Int32 pos, String res, String[] args)
+   at System.Xml.XmlTextReaderImpl.ThrowInvalidChar(Int32 pos, Char invChar)
+   at System.Xml.XmlTextReaderImpl.ParseCDataOrComment(XmlNodeType type, Int32& outStartPos, Int32& outEndPos)
+   at System.Xml.XmlTextReaderImpl.ParseCDataOrComment(XmlNodeType type)
+   at System.Xml.XmlTextReaderImpl.ParseElementContent()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlLoader.LoadNode(Boolean skipOverWhitespace)
+   at System.Xml.XmlLoader.ParsePartialContent(XmlNode parentNode, String innerxmltext, XmlNodeType nt)
+   at System.Xml.XmlLoader.LoadInnerXmlElement(XmlElement node, String innerxmltext)
+   at System.Xml.XmlElement.set_InnerXml(String value)
+   at GalleryMigration.Program.BuildGallery(String article_uid, String category, String startdate, String query, Single& similarity) in c:\apps\ArticleDataServiceMigration\GalleryMigration\Program.cs:line 142 
+ message:Article uid: 3622079  
+ message:0 Article uid: 20760751 Error Sp: LoadSaxoGallery Number: 2627  Message: Violation of PRIMARY KEY constraint 'PK_saxo_gallery'. Cannot insert duplicate key in object 'dbo.saxo_gallery'. 
+ 

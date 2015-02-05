@@ -1,0 +1,11 @@
+﻿<table border="1" align="left">
+ <tr>
+    <td title="Edit Article <%article_uid%>">
+		     <a href="#" onclick="javascript:ShowModal('articleEdit.aspx?article_uid=<%article_uid%>',1000,700);"><img src="images/edit.jpg" alt="edit" width="36" /></a>
+   </td>
+   <td>
+        <a href="#" onclick="javascript:ShowModal('articleXML.aspx?article_uid=<%article_uid%>',1000,700);"><img src="images/xml.jpg" alt="edit" width="36" />
+    </a>
+   </td>
+</tr>
+</table>

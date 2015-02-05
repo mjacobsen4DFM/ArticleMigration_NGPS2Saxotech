@@ -1,0 +1,26 @@
+C:\apps\ArticleDataServiceMigration\rssImport\bin\Debug\rssImport.exe.config
+C:\apps\ArticleDataServiceMigration\rssImport\bin\Debug\rssImport.exe
+C:\apps\ArticleDataServiceMigration\rssImport\bin\Debug\rssImport.pdb
+C:\apps\ArticleDataServiceMigration\rssImport\bin\Debug\DbCommon.dll
+C:\apps\ArticleDataServiceMigration\rssImport\bin\Debug\NDesk.dll
+C:\apps\ArticleDataServiceMigration\rssImport\bin\Debug\OWC.dll
+C:\apps\ArticleDataServiceMigration\rssImport\bin\Debug\DbCommon.pdb
+C:\apps\ArticleDataServiceMigration\rssImport\bin\Debug\DbCommon.xml
+C:\apps\ArticleDataServiceMigration\rssImport\bin\Debug\NDesk.pdb
+C:\apps\ArticleDataServiceMigration\rssImport\bin\Debug\OWC.pdb
+C:\apps\ArticleDataServiceMigration\rssImport\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\apps\ArticleDataServiceMigration\rssImport\obj\x86\Debug\rssImport.exe
+C:\apps\ArticleDataServiceMigration\rssImport\obj\x86\Debug\rssImport.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\rssImport\bin\Debug\rssImport.exe.config
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\rssImport\bin\Debug\rssImport.exe
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\rssImport\bin\Debug\rssImport.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\rssImport\bin\Debug\DbCommon.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\rssImport\bin\Debug\NDesk.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\rssImport\bin\Debug\OWC.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\rssImport\bin\Debug\DbCommon.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\rssImport\bin\Debug\DbCommon.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\rssImport\bin\Debug\NDesk.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\rssImport\bin\Debug\OWC.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\rssImport\obj\x86\Debug\rssImport.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\rssImport\obj\x86\Debug\rssImport.exe
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\rssImport\obj\x86\Debug\rssImport.pdb

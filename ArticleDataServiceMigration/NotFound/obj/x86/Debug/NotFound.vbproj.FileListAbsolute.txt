@@ -1,0 +1,51 @@
+C:\apps\ArticleDataServiceMigration\NotFound\bin\Debug\NotFound.exe.config
+C:\apps\ArticleDataServiceMigration\NotFound\bin\Debug\NotFound.exe
+C:\apps\ArticleDataServiceMigration\NotFound\bin\Debug\NotFound.pdb
+C:\apps\ArticleDataServiceMigration\NotFound\bin\Debug\NotFound.xml
+C:\apps\ArticleDataServiceMigration\NotFound\bin\Debug\BusinessRule.dll
+C:\apps\ArticleDataServiceMigration\NotFound\bin\Debug\DataAuthentication.dll
+C:\apps\ArticleDataServiceMigration\NotFound\bin\Debug\OWC.dll
+C:\apps\ArticleDataServiceMigration\NotFound\bin\Debug\UncAccess.dll
+C:\apps\ArticleDataServiceMigration\NotFound\bin\Debug\DbCommon.dll
+C:\apps\ArticleDataServiceMigration\NotFound\bin\Debug\BusinessRule.pdb
+C:\apps\ArticleDataServiceMigration\NotFound\bin\Debug\BusinessRule.xml
+C:\apps\ArticleDataServiceMigration\NotFound\bin\Debug\DataAuthentication.pdb
+C:\apps\ArticleDataServiceMigration\NotFound\bin\Debug\DataAuthentication.xml
+C:\apps\ArticleDataServiceMigration\NotFound\bin\Debug\OWC.pdb
+C:\apps\ArticleDataServiceMigration\NotFound\bin\Debug\UncAccess.pdb
+C:\apps\ArticleDataServiceMigration\NotFound\bin\Debug\DbCommon.pdb
+C:\apps\ArticleDataServiceMigration\NotFound\bin\Debug\DbCommon.xml
+C:\apps\ArticleDataServiceMigration\NotFound\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\apps\ArticleDataServiceMigration\NotFound\obj\x86\Debug\NotFound.Resources.resources
+C:\apps\ArticleDataServiceMigration\NotFound\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\apps\ArticleDataServiceMigration\NotFound\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\apps\ArticleDataServiceMigration\NotFound\obj\x86\Debug\NotFound.exe
+C:\apps\ArticleDataServiceMigration\NotFound\obj\x86\Debug\NotFound.xml
+C:\apps\ArticleDataServiceMigration\NotFound\obj\x86\Debug\NotFound.pdb
+C:\apps\ArticleDataServiceMigration\NotFound\bin\Debug\DataModels.dll
+C:\apps\ArticleDataServiceMigration\NotFound\bin\Debug\DataModels.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\bin\Debug\NotFound.exe.config
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\bin\Debug\NotFound.exe
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\bin\Debug\NotFound.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\bin\Debug\NotFound.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\bin\Debug\BusinessRule.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\bin\Debug\DataModels.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\bin\Debug\OWC.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\bin\Debug\DataAuthentication.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\bin\Debug\UncAccess.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\bin\Debug\DbCommon.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\bin\Debug\BusinessRule.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\bin\Debug\BusinessRule.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\bin\Debug\DataModels.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\bin\Debug\OWC.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\bin\Debug\DataAuthentication.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\bin\Debug\DataAuthentication.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\bin\Debug\UncAccess.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\bin\Debug\DbCommon.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\bin\Debug\DbCommon.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\obj\x86\Debug\NotFound.vbprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\obj\x86\Debug\NotFound.Resources.resources
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\obj\x86\Debug\NotFound.vbproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\obj\x86\Debug\NotFound.exe
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\obj\x86\Debug\NotFound.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NotFound\obj\x86\Debug\NotFound.pdb

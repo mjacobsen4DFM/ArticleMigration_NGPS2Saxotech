@@ -1,0 +1,11 @@
+c:\apps\ArticleDataServiceMigration\PostArticles\bin\Release\PostArticles.exe.config
+c:\apps\ArticleDataServiceMigration\PostArticles\bin\Release\PostArticles.exe
+c:\apps\ArticleDataServiceMigration\PostArticles\bin\Release\PostArticles.pdb
+c:\apps\ArticleDataServiceMigration\PostArticles\bin\Release\DbCommon.dll
+c:\apps\ArticleDataServiceMigration\PostArticles\bin\Release\OWC.dll
+c:\apps\ArticleDataServiceMigration\PostArticles\bin\Release\OWC.pdb
+c:\apps\ArticleDataServiceMigration\PostArticles\bin\Release\DbCommon.pdb
+c:\apps\ArticleDataServiceMigration\PostArticles\bin\Release\DbCommon.xml
+c:\apps\ArticleDataServiceMigration\PostArticles\obj\Release\ResolveAssemblyReference.cache
+c:\apps\ArticleDataServiceMigration\PostArticles\obj\Release\PostArticles.exe
+c:\apps\ArticleDataServiceMigration\PostArticles\obj\Release\PostArticles.pdb

@@ -1,0 +1,3 @@
+﻿<script type="text/javascript">
+    $("#gallery").load("php/GetGallery.php?albumid={albumid}&albumkey={albumkey}&articleuid={articleuid}");
+</script>

@@ -1,0 +1,11 @@
+c:\apps\ArticleDataServiceMigration\ImageMigration\bin\Release\ImageMigration.exe.config
+c:\apps\ArticleDataServiceMigration\ImageMigration\bin\Release\ImageMigration.exe
+c:\apps\ArticleDataServiceMigration\ImageMigration\bin\Release\ImageMigration.pdb
+c:\apps\ArticleDataServiceMigration\ImageMigration\bin\Release\DbCommon.dll
+c:\apps\ArticleDataServiceMigration\ImageMigration\bin\Release\OWC.dll
+c:\apps\ArticleDataServiceMigration\ImageMigration\bin\Release\OWC.pdb
+c:\apps\ArticleDataServiceMigration\ImageMigration\bin\Release\DbCommon.pdb
+c:\apps\ArticleDataServiceMigration\ImageMigration\bin\Release\DbCommon.xml
+c:\apps\ArticleDataServiceMigration\ImageMigration\obj\Release\ResolveAssemblyReference.cache
+c:\apps\ArticleDataServiceMigration\ImageMigration\obj\Release\ImageMigration.exe
+c:\apps\ArticleDataServiceMigration\ImageMigration\obj\Release\ImageMigration.pdb

@@ -1,0 +1,4 @@
+C:\apps\ArticleDataServiceMigration\UncAccess\bin\Debug\UncAccess.dll
+C:\apps\ArticleDataServiceMigration\UncAccess\bin\Debug\UncAccess.pdb
+C:\apps\ArticleDataServiceMigration\UncAccess\obj\Debug\UncAccess.dll
+C:\apps\ArticleDataServiceMigration\UncAccess\obj\Debug\UncAccess.pdb

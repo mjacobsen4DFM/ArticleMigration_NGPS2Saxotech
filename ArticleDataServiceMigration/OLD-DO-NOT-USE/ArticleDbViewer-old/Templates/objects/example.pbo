@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head runat="server">
+    <title>Article Viewer</title>
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+
+    <style type="text/css">
+		.div-table{display:table; border:1px solid #003399;}
+		.div-table-1{display:table;}
+		.div-table-caption{display:table-caption; background:#87CEFE;font-size:1.5em;text-align:center;}
+		.div-table-caption2{display:table-caption; background:#87CEFE;font-size:.95em;text-align:center;}
+		.div-table-row{display:table-row;}
+		.div-table-col{display:table-cell; padding: 5px; border: 1px solid #003399;}
+		.div-table-col-1{display:table-cell; padding: 5px;}
+
+	</style>
+</head>
+<body>
+<div class="div-table">
+	<div class="div-table-caption">Article Viewer </div>
+	<div class="div-table-row">
+		<div class="div-table-col">article id</div>
+		<div class="div-table-col">start date</div>
+		<div class="div-table-col">category</div>
+	</div>
+	<div class="div-table-row">
+	   <div class="div-table-col"><%article_uid%></div>
+	   <div class="div-table-col"><%startdate%></div>
+	   <div class="div-table-col"><%category%></div>
+	</div>
+</div>
+<div class="div-table-1">
+	<div class="div-table-row">
+		<div class="div-table-col-1"><%heading%></div>
+	</div>
+	<div class="div-table-row">
+		<div class="div-table-col-1"><%gallery%></div>
+	</div>
+	<div class="div-table-row">
+		<div class="div-table-col-1"><%story%></div>
+	</div>
+</div>
+
+<div id="saxoview">
+</div>
+
+// <script type="text/javascript">
+//    $("#saxoview").load("saxoviewer.aspx");
+// </script>
+
+
+</body>
+</html>

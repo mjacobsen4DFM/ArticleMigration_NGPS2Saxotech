@@ -1,0 +1,17 @@
+C:\services\smugmug\SmugMugModel\bin\Release\SmugMugModel.dll
+C:\services\smugmug\SmugMugModel\bin\Release\SmugMugModel.pdb
+C:\services\smugmug\SmugMugModel\bin\Release\JSONDotNET.dll
+C:\services\smugmug\SmugMugModel\bin\Release\JSONDotNET.pdb
+C:\services\smugmug\SmugMugModel\obj\Release\ResolveAssemblyReference.cache
+C:\services\smugmug\SmugMugModel\obj\Release\SmugMugModel.dll
+C:\services\smugmug\SmugMugModel\obj\Release\SmugMugModel.pdb
+c:\apps\ArticleDataServiceMigration\SmugMugModel\bin\Release\SmugMugModel.dll
+c:\apps\ArticleDataServiceMigration\SmugMugModel\bin\Release\SmugMugModel.pdb
+c:\apps\ArticleDataServiceMigration\SmugMugModel\bin\Release\DbCommon.dll
+c:\apps\ArticleDataServiceMigration\SmugMugModel\bin\Release\JSONDotNET.dll
+c:\apps\ArticleDataServiceMigration\SmugMugModel\bin\Release\JSONDotNET.pdb
+c:\apps\ArticleDataServiceMigration\SmugMugModel\bin\Release\DbCommon.pdb
+c:\apps\ArticleDataServiceMigration\SmugMugModel\bin\Release\DbCommon.xml
+c:\apps\ArticleDataServiceMigration\SmugMugModel\obj\Release\ResolveAssemblyReference.cache
+c:\apps\ArticleDataServiceMigration\SmugMugModel\obj\Release\SmugMugModel.dll
+c:\apps\ArticleDataServiceMigration\SmugMugModel\obj\Release\SmugMugModel.pdb

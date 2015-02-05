@@ -1,0 +1,39 @@
+C:\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\BusinessRule.dll
+C:\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\BusinessRule.pdb
+C:\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\BusinessRule.xml
+C:\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\DataAuthentication.dll
+C:\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\OWC.dll
+C:\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\DbCommon.dll
+C:\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\DataAuthentication.pdb
+C:\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\DataAuthentication.xml
+C:\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\OWC.pdb
+C:\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\DbCommon.pdb
+C:\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\DbCommon.xml
+C:\apps\ArticleDataServiceMigration\BusinessRule\obj\Release\ResolveAssemblyReference.cache
+C:\apps\ArticleDataServiceMigration\BusinessRule\obj\Release\BusinessRule.Resources.resources
+C:\apps\ArticleDataServiceMigration\BusinessRule\obj\Release\GenerateResource.read.1.tlog
+C:\apps\ArticleDataServiceMigration\BusinessRule\obj\Release\GenerateResource.write.1.tlog
+C:\apps\ArticleDataServiceMigration\BusinessRule\obj\Release\BusinessRule.dll
+C:\apps\ArticleDataServiceMigration\BusinessRule\obj\Release\BusinessRule.xml
+C:\apps\ArticleDataServiceMigration\BusinessRule\obj\Release\BusinessRule.pdb
+C:\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\UncAccess.dll
+C:\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\UncAccess.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\BusinessRule.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\BusinessRule.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\BusinessRule.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\DataAuthentication.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\OWC.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\UncAccess.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\DbCommon.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\DataAuthentication.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\DataAuthentication.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\OWC.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\UncAccess.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\DbCommon.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRule\bin\Release\DbCommon.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRule\obj\Release\BusinessRule.vbprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRule\obj\Release\BusinessRule.Resources.resources
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRule\obj\Release\BusinessRule.vbproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRule\obj\Release\BusinessRule.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRule\obj\Release\BusinessRule.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRule\obj\Release\BusinessRule.pdb

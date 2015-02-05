@@ -1,0 +1,35 @@
+C:\apps\ArticleDataServiceMigration\RssReader\bin\Debug\RssReader.exe
+C:\apps\ArticleDataServiceMigration\RssReader\bin\Debug\RssReader.pdb
+C:\apps\ArticleDataServiceMigration\RssReader\bin\Debug\RssReader.xml
+C:\apps\ArticleDataServiceMigration\RssReader\bin\Debug\OWC.dll
+C:\apps\ArticleDataServiceMigration\RssReader\bin\Debug\OWC.pdb
+C:\apps\ArticleDataServiceMigration\RssReader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\apps\ArticleDataServiceMigration\RssReader\obj\x86\Debug\RssReader.Resources.resources
+C:\apps\ArticleDataServiceMigration\RssReader\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\apps\ArticleDataServiceMigration\RssReader\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\apps\ArticleDataServiceMigration\RssReader\obj\x86\Debug\RssReader.exe
+C:\apps\ArticleDataServiceMigration\RssReader\obj\x86\Debug\RssReader.xml
+C:\apps\ArticleDataServiceMigration\RssReader\obj\x86\Debug\RssReader.pdb
+C:\apps\ArticleDataServiceMigration\RssReader\bin\Debug\RssReader.exe.config
+C:\apps\ArticleDataServiceMigration\RssReader\bin\Debug\DbCommon.dll
+C:\apps\ArticleDataServiceMigration\RssReader\bin\Debug\DbCommon.pdb
+C:\apps\ArticleDataServiceMigration\RssReader\bin\Debug\DbCommon.xml
+C:\apps\ArticleDataServiceMigration\RssReader\bin\Debug\NDesk.dll
+C:\apps\ArticleDataServiceMigration\RssReader\bin\Debug\NDesk.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\RssReader\bin\Debug\RssReader.exe.config
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\RssReader\bin\Debug\RssReader.exe
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\RssReader\bin\Debug\RssReader.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\RssReader\bin\Debug\RssReader.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\RssReader\bin\Debug\DbCommon.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\RssReader\bin\Debug\NDesk.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\RssReader\bin\Debug\OWC.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\RssReader\bin\Debug\DbCommon.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\RssReader\bin\Debug\DbCommon.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\RssReader\bin\Debug\NDesk.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\RssReader\bin\Debug\OWC.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\RssReader\obj\x86\Debug\RssReader.vbprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\RssReader\obj\x86\Debug\RssReader.Resources.resources
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\RssReader\obj\x86\Debug\RssReader.vbproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\RssReader\obj\x86\Debug\RssReader.exe
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\RssReader\obj\x86\Debug\RssReader.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\RssReader\obj\x86\Debug\RssReader.pdb

@@ -1,0 +1,15 @@
+C:\apps\ArticleDataServiceMigration\BusinessRuleC\bin\Release\BusinessRuleC.dll
+C:\apps\ArticleDataServiceMigration\BusinessRuleC\bin\Release\BusinessRuleC.pdb
+C:\apps\ArticleDataServiceMigration\BusinessRuleC\bin\Release\ArticleDataDbEntity.dll
+C:\apps\ArticleDataServiceMigration\BusinessRuleC\bin\Release\ArticleDataDbEntity.pdb
+C:\apps\ArticleDataServiceMigration\BusinessRuleC\bin\Release\ArticleDataDbEntity.xml
+C:\apps\ArticleDataServiceMigration\BusinessRuleC\obj\Release\ResolveAssemblyReference.cache
+C:\apps\ArticleDataServiceMigration\BusinessRuleC\obj\Release\BusinessRuleC.dll
+C:\apps\ArticleDataServiceMigration\BusinessRuleC\obj\Release\BusinessRuleC.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRuleC\bin\Release\BusinessRuleC.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRuleC\bin\Release\BusinessRuleC.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRuleC\bin\Release\DataModels.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRuleC\bin\Release\DataModels.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRuleC\obj\Release\BusinessRuleC.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRuleC\obj\Release\BusinessRuleC.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\BusinessRuleC\obj\Release\BusinessRuleC.pdb

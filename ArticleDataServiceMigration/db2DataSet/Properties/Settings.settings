@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="db2DataSet.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="livee_11ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Database=livee_11;User ID=dev;Password="J$R46=Acd";QueryTimeout=0;Server=10.148.24.33:55100&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;IBM.Data.DB2&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Database=livee_11;User ID=dev;Password="J$R46=Acd";QueryTimeout=0;Server=10.148.24.33:55100</Value>
+    </Setting>
+    <Setting Name="livee_11ConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Database=livee_11;User ID=ngps;Password=Q&amp;amp;jU4At3ek;QueryTimeout=0;Server=db2beta2:55100&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;IBM.Data.DB2&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Database=livee_11;User ID=ngps;Password=Q&amp;jU4At3ek;QueryTimeout=0;Server=db2beta2:55100</Value>
+    </Setting>
+    <Setting Name="livee_11ConnectionString2" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Database=livee_11;User ID=ngps;Password=Q&amp;amp;jU4At3ek;QueryTimeout=0;Server=db2beta2:55100;Persist Security Info=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;IBM.Data.DB2&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Database=livee_11;User ID=ngps;Password=Q&amp;jU4At3ek;QueryTimeout=0;Server=db2beta2:55100;Persist Security Info=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

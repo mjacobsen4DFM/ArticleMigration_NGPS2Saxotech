@@ -1,0 +1,7 @@
+﻿<table border="1" align="left">
+<tr>
+    <td title="Send to SaxoTech">
+	    <a href="#" onclick="javascript:this.disabled=1;javascript:HttpActionPost('migrate.aspx?article_uid=<%article_uid%>','')"><img src="images/send.jpg" alt="send" width="36" /></a>
+   </td>
+</tr>
+</table>

@@ -1,0 +1,11 @@
+C:\apps\ArticleDataServiceMigration\DataModels\bin\Debug\DataModels.dll.config
+C:\apps\ArticleDataServiceMigration\DataModels\bin\Debug\DataModels.dll
+C:\apps\ArticleDataServiceMigration\DataModels\bin\Debug\DataModels.pdb
+C:\apps\ArticleDataServiceMigration\DataModels\obj\Debug\DataModels.dll
+C:\apps\ArticleDataServiceMigration\DataModels\obj\Debug\DataModels.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\DataModels\bin\Debug\DataModels.dll.config
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\DataModels\bin\Debug\DataModels.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\DataModels\bin\Debug\DataModels.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\DataModels\obj\Debug\DataModels.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\DataModels\obj\Debug\DataModels.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\DataModels\obj\Debug\DataModels.csprojResolveAssemblyReference.cache

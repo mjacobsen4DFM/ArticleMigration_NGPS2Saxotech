@@ -1,0 +1,6 @@
+﻿
+ngps explicit
+http://delivery.digitalfirstmedia.com/ConvergencePublisher/?xslt=http://delivery.digitalfirstmedia.com/webservices/ConversionPublisher/basefiles/dev/GenericXML-to-SaxoMRSS.xslt&uri=http://rss.denverpost.com/mngi/rss/CustomRssServlet/36/230605.xml
+
+saxotech
+-u http://web.saxo.dailynews.com/apps/pbcs.dll/section?profile=1033652&template=rss&nocache=1&fulltext=1&extended=1

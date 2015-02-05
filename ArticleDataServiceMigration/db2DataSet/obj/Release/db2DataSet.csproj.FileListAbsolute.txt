@@ -1,0 +1,24 @@
+C:\apps\ngps2saxo\ngps2saxoxml\db2DataSet\bin\Release\db2DataSet.dll.config
+C:\apps\ngps2saxo\ngps2saxoxml\db2DataSet\bin\Release\db2DataSet.dll
+C:\apps\ngps2saxo\ngps2saxoxml\db2DataSet\bin\Release\db2DataSet.pdb
+C:\apps\ngps2saxo\ngps2saxoxml\db2DataSet\obj\Release\ResolveAssemblyReference.cache
+C:\apps\ngps2saxo\ngps2saxoxml\db2DataSet\obj\Release\db2DataSet.dll
+C:\apps\ngps2saxo\ngps2saxoxml\db2DataSet\obj\Release\db2DataSet.pdb
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\db2DataSet\bin\Release\db2DataSet.dll.config
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\db2DataSet\bin\Release\db2DataSet.dll
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\db2DataSet\bin\Release\db2DataSet.pdb
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\db2DataSet\obj\Release\ResolveAssemblyReference.cache
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\db2DataSet\obj\Release\db2DataSet.dll
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\db2DataSet\obj\Release\db2DataSet.pdb
+C:\apps\ArticleDataServiceMigration\db2DataSet\bin\Release\db2DataSet.dll.config
+C:\apps\ArticleDataServiceMigration\db2DataSet\bin\Release\db2DataSet.dll
+C:\apps\ArticleDataServiceMigration\db2DataSet\bin\Release\db2DataSet.pdb
+C:\apps\ArticleDataServiceMigration\db2DataSet\obj\Release\ResolveAssemblyReference.cache
+C:\apps\ArticleDataServiceMigration\db2DataSet\obj\Release\db2DataSet.dll
+C:\apps\ArticleDataServiceMigration\db2DataSet\obj\Release\db2DataSet.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\db2DataSet\bin\Release\db2DataSet.dll.config
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\db2DataSet\bin\Release\db2DataSet.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\db2DataSet\bin\Release\db2DataSet.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\db2DataSet\obj\Release\db2DataSet.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\db2DataSet\obj\Release\db2DataSet.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\db2DataSet\obj\Release\db2DataSet.pdb

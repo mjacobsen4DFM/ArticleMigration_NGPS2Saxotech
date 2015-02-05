@@ -1,0 +1,10 @@
+c:\apps\ArticleDataServiceMigration\ArticleDbViewerSaxoInterface\bin\Release\ArticleDbViewerSaxoInterface.dll
+c:\apps\ArticleDataServiceMigration\ArticleDbViewerSaxoInterface\bin\Release\ArticleDbViewerSaxoInterface.pdb
+c:\apps\ArticleDataServiceMigration\ArticleDbViewerSaxoInterface\bin\Release\DbCommon.dll
+c:\apps\ArticleDataServiceMigration\ArticleDbViewerSaxoInterface\bin\Release\OWC.dll
+c:\apps\ArticleDataServiceMigration\ArticleDbViewerSaxoInterface\bin\Release\OWC.pdb
+c:\apps\ArticleDataServiceMigration\ArticleDbViewerSaxoInterface\bin\Release\DbCommon.pdb
+c:\apps\ArticleDataServiceMigration\ArticleDbViewerSaxoInterface\bin\Release\DbCommon.xml
+c:\apps\ArticleDataServiceMigration\ArticleDbViewerSaxoInterface\obj\Release\ResolveAssemblyReference.cache
+c:\apps\ArticleDataServiceMigration\ArticleDbViewerSaxoInterface\obj\Release\ArticleDbViewerSaxoInterface.dll
+c:\apps\ArticleDataServiceMigration\ArticleDbViewerSaxoInterface\obj\Release\ArticleDbViewerSaxoInterface.pdb

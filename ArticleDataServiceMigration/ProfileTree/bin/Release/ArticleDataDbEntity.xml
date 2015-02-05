@@ -1,0 +1,863 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ArticleDataDbEntity
+</name>
+</assembly>
+<members>
+<member name="M:ArticleDataDbEntity.ArticleDataDbEntities.#ctor">
+	<summary>
+ Initializes a new ArticleDataDbEntities object using the connection string found in the 'ArticleDataDbEntities' section of the application configuration file.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.ArticleDataDbEntities.#ctor(System.String)">
+	<summary>
+ Initialize a new ArticleDataDbEntities object.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.ArticleDataDbEntities.#ctor(System.Data.EntityClient.EntityConnection)">
+	<summary>
+ Initialize a new ArticleDataDbEntities object.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.ArticleDataDbEntities.articles">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.ArticleDataDbEntities.article_lock">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.ArticleDataDbEntities.articleEditOrgs">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.ArticleDataDbEntities.assets">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.ArticleDataDbEntities.Exceptions">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.ArticleDataDbEntities.htmlHoldRules">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.ArticleDataDbEntities.Images">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.ArticleDataDbEntities.image_tracker">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.ArticleDataDbEntities.logstatements">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.ArticleDataDbEntities.MigrationErrors">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.ArticleDataDbEntities.saxo_article">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.ArticleDataDbEntities.saxo_categoryMap">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.ArticleDataDbEntities.saxo_gallery">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.ArticleDataDbEntities.saxo_image">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.ArticleDataDbEntities.sectionAnchorMaps">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.ArticleDataDbEntities.SessionErrors">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.ArticleDataDbEntities.tracksessions">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.ArticleDataDbEntities.saxo_pubMap">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.ArticleDataDbEntities.profiles">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.ArticleDataDbEntities.AddToarticles(ArticleDataDbEntity.article)">
+	<summary>
+ Deprecated Method for adding a new object to the articles EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.ArticleDataDbEntities.AddToarticle_lock(ArticleDataDbEntity.article_lock)">
+	<summary>
+ Deprecated Method for adding a new object to the article_lock EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.ArticleDataDbEntities.AddToarticleEditOrgs(ArticleDataDbEntity.articleEditOrg)">
+	<summary>
+ Deprecated Method for adding a new object to the articleEditOrgs EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.ArticleDataDbEntities.AddToassets(ArticleDataDbEntity.asset)">
+	<summary>
+ Deprecated Method for adding a new object to the assets EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.ArticleDataDbEntities.AddToExceptions(ArticleDataDbEntity.Exception)">
+	<summary>
+ Deprecated Method for adding a new object to the Exceptions EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.ArticleDataDbEntities.AddTohtmlHoldRules(ArticleDataDbEntity.htmlHoldRule)">
+	<summary>
+ Deprecated Method for adding a new object to the htmlHoldRules EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.ArticleDataDbEntities.AddToImages(ArticleDataDbEntity.Image)">
+	<summary>
+ Deprecated Method for adding a new object to the Images EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.ArticleDataDbEntities.AddToimage_tracker(ArticleDataDbEntity.image_tracker)">
+	<summary>
+ Deprecated Method for adding a new object to the image_tracker EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.ArticleDataDbEntities.AddTologstatements(ArticleDataDbEntity.logstatement)">
+	<summary>
+ Deprecated Method for adding a new object to the logstatements EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.ArticleDataDbEntities.AddToMigrationErrors(ArticleDataDbEntity.MigrationError)">
+	<summary>
+ Deprecated Method for adding a new object to the MigrationErrors EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.ArticleDataDbEntities.AddTosaxo_article(ArticleDataDbEntity.saxo_article)">
+	<summary>
+ Deprecated Method for adding a new object to the saxo_article EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.ArticleDataDbEntities.AddTosaxo_categoryMap(ArticleDataDbEntity.saxo_categoryMap)">
+	<summary>
+ Deprecated Method for adding a new object to the saxo_categoryMap EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.ArticleDataDbEntities.AddTosaxo_gallery(ArticleDataDbEntity.saxo_gallery)">
+	<summary>
+ Deprecated Method for adding a new object to the saxo_gallery EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.ArticleDataDbEntities.AddTosaxo_image(ArticleDataDbEntity.saxo_image)">
+	<summary>
+ Deprecated Method for adding a new object to the saxo_image EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.ArticleDataDbEntities.AddTosectionAnchorMaps(ArticleDataDbEntity.sectionAnchorMap)">
+	<summary>
+ Deprecated Method for adding a new object to the sectionAnchorMaps EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.ArticleDataDbEntities.AddToSessionErrors(ArticleDataDbEntity.SessionError)">
+	<summary>
+ Deprecated Method for adding a new object to the SessionErrors EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.ArticleDataDbEntities.AddTotracksessions(ArticleDataDbEntity.tracksession)">
+	<summary>
+ Deprecated Method for adding a new object to the tracksessions EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.ArticleDataDbEntities.AddTosaxo_pubMap(ArticleDataDbEntity.saxo_pubMap)">
+	<summary>
+ Deprecated Method for adding a new object to the saxo_pubMap EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.ArticleDataDbEntities.AddToprofiles(ArticleDataDbEntity.profile)">
+	<summary>
+ Deprecated Method for adding a new object to the profiles EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="T:ArticleDataDbEntity.ArticleDataDbEntities">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.article.Createarticle(System.String,System.String,System.DateTime)">
+	<summary>
+ Create a new article object.
+ </summary>
+	<param name="siteid">Initial value of the siteid property.</param>
+	<param name="article_uid">Initial value of the article_uid property.</param>
+	<param name="startdate">Initial value of the startdate property.</param>
+</member><member name="P:ArticleDataDbEntity.article.siteid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.article.article_uid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.article.category">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.article.anchor">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.article.startdate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.article.enddate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.article.heading">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.article.body">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.article.relatedArticles">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.article.summary">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.article.byline">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.article.subtitle">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.article.seodescription">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.article.keyword">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.article.imagecount">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.article.origsite">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:ArticleDataDbEntity.article">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.article_lock.Createarticle_lock(System.String,System.String)">
+	<summary>
+ Create a new article_lock object.
+ </summary>
+	<param name="article_uid">Initial value of the article_uid property.</param>
+	<param name="locked">Initial value of the locked property.</param>
+</member><member name="P:ArticleDataDbEntity.article_lock.article_uid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.article_lock.locked">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.article_lock.username">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:ArticleDataDbEntity.article_lock">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.articleEditOrg.CreatearticleEditOrg(System.String,System.DateTime)">
+	<summary>
+ Create a new articleEditOrg object.
+ </summary>
+	<param name="article_uid">Initial value of the article_uid property.</param>
+	<param name="ts">Initial value of the ts property.</param>
+</member><member name="P:ArticleDataDbEntity.articleEditOrg.article_uid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.articleEditOrg.heading">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.articleEditOrg.summary">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.articleEditOrg.byline">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.articleEditOrg.body">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.articleEditOrg.ts">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:ArticleDataDbEntity.articleEditOrg">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.asset.Createasset(System.String,System.String,System.Int32)">
+	<summary>
+ Create a new asset object.
+ </summary>
+	<param name="article_uid">Initial value of the article_uid property.</param>
+	<param name="asset_uid">Initial value of the asset_uid property.</param>
+	<param name="asset_type">Initial value of the asset_type property.</param>
+</member><member name="P:ArticleDataDbEntity.asset.article_uid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.asset.asset_uid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.asset.asset_type">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:ArticleDataDbEntity.asset">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.Exception.CreateException(System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Create a new Exception object.
+ </summary>
+	<param name="exceptionID">Initial value of the ExceptionID property.</param>
+	<param name="exceptionLevel">Initial value of the ExceptionLevel property.</param>
+	<param name="sessionErrorID">Initial value of the SessionErrorID property.</param>
+</member><member name="P:ArticleDataDbEntity.Exception.ExceptionID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.Exception.ExceptionLevel">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.Exception.SessionErrorID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.Exception.Source">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.Exception.StackTrace">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.Exception.Message">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.Exception.Machine">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.Exception.TargetSite">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.Exception.ts">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.Exception.SessionError">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.Exception.SessionErrorReference">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:ArticleDataDbEntity.Exception">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.htmlHoldRule.CreatehtmlHoldRule(System.Int32)">
+	<summary>
+ Create a new htmlHoldRule object.
+ </summary>
+	<param name="id">Initial value of the id property.</param>
+</member><member name="P:ArticleDataDbEntity.htmlHoldRule.id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.htmlHoldRule.htmltag">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:ArticleDataDbEntity.htmlHoldRule">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.Image.CreateImage(System.String)">
+	<summary>
+ Create a new Image object.
+ </summary>
+	<param name="asset_uid">Initial value of the asset_uid property.</param>
+</member><member name="P:ArticleDataDbEntity.Image.asset_uid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.Image.imagepath">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.Image.position">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.Image.width">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.Image.height">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.Image.media_type">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.Image.caption">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.Image.filesize">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:ArticleDataDbEntity.Image">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.image_tracker.Createimage_tracker(System.String,System.String,System.String,System.String)">
+	<summary>
+ Create a new image_tracker object.
+ </summary>
+	<param name="article_uid">Initial value of the article_uid property.</param>
+	<param name="asset_uid">Initial value of the asset_uid property.</param>
+	<param name="siteid">Initial value of the siteid property.</param>
+	<param name="soft_delete">Initial value of the soft_delete property.</param>
+</member><member name="P:ArticleDataDbEntity.image_tracker.article_uid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.image_tracker.asset_uid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.image_tracker.siteid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.image_tracker.soft_delete">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:ArticleDataDbEntity.image_tracker">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.logstatement.Createlogstatement(System.String,System.String,System.DateTime)">
+	<summary>
+ Create a new logstatement object.
+ </summary>
+	<param name="article_uid">Initial value of the article_uid property.</param>
+	<param name="statement">Initial value of the statement property.</param>
+	<param name="ts">Initial value of the ts property.</param>
+</member><member name="P:ArticleDataDbEntity.logstatement.article_uid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.logstatement.statement">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.logstatement.ts">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:ArticleDataDbEntity.logstatement">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.MigrationError.CreateMigrationError(System.String)">
+	<summary>
+ Create a new MigrationError object.
+ </summary>
+	<param name="article_uid">Initial value of the article_uid property.</param>
+</member><member name="P:ArticleDataDbEntity.MigrationError.article_uid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.MigrationError.myMessage">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.MigrationError.ts">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:ArticleDataDbEntity.MigrationError">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.profile.Createprofile(System.Int32,System.String,System.Int32,System.String,System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Create a new profile object.
+ </summary>
+	<param name="id">Initial value of the id property.</param>
+	<param name="uri">Initial value of the uri property.</param>
+	<param name="childcount">Initial value of the childcount property.</param>
+	<param name="fieldname">Initial value of the fieldname property.</param>
+	<param name="treelevel">Initial value of the treelevel property.</param>
+	<param name="parentid">Initial value of the parentid property.</param>
+	<param name="rootid">Initial value of the rootid property.</param>
+</member><member name="P:ArticleDataDbEntity.profile.id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.profile.uri">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.profile.childcount">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.profile.childrenuri">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.profile.fieldname">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.profile.treelevel">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.profile.parentid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.profile.rootid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:ArticleDataDbEntity.profile">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.saxo_article.Createsaxo_article(System.String,System.String,System.String)">
+	<summary>
+ Create a new saxo_article object.
+ </summary>
+	<param name="article_uid">Initial value of the article_uid property.</param>
+	<param name="siteid">Initial value of the siteid property.</param>
+	<param name="xmldata">Initial value of the xmldata property.</param>
+</member><member name="P:ArticleDataDbEntity.saxo_article.article_uid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.saxo_article.siteid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.saxo_article.destination_siteid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.saxo_article.xmldata">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.saxo_article.viewuri">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.saxo_article.storyurl">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:ArticleDataDbEntity.saxo_article">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.saxo_categoryMap.Createsaxo_categoryMap(System.Int32,System.String,System.String,System.Int32)">
+	<summary>
+ Create a new saxo_categoryMap object.
+ </summary>
+	<param name="id">Initial value of the id property.</param>
+	<param name="category">Initial value of the category property.</param>
+	<param name="saxo_category">Initial value of the saxo_category property.</param>
+	<param name="taxonomyword">Initial value of the taxonomyword property.</param>
+</member><member name="P:ArticleDataDbEntity.saxo_categoryMap.id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.saxo_categoryMap.category">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.saxo_categoryMap.saxo_category">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.saxo_categoryMap.taxonomyword">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:ArticleDataDbEntity.saxo_categoryMap">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.saxo_gallery.Createsaxo_gallery(System.String,System.String)">
+	<summary>
+ Create a new saxo_gallery object.
+ </summary>
+	<param name="article_uid">Initial value of the article_uid property.</param>
+	<param name="gallery_uid">Initial value of the gallery_uid property.</param>
+</member><member name="P:ArticleDataDbEntity.saxo_gallery.destination_siteid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.saxo_gallery.article_uid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.saxo_gallery.gallery_uid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.saxo_gallery.similarity">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.saxo_gallery.edit">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:ArticleDataDbEntity.saxo_gallery">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.saxo_image.Createsaxo_image(System.String,System.String)">
+	<summary>
+ Create a new saxo_image object.
+ </summary>
+	<param name="asset_uid">Initial value of the asset_uid property.</param>
+	<param name="url">Initial value of the url property.</param>
+</member><member name="P:ArticleDataDbEntity.saxo_image.asset_uid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.saxo_image.url">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.saxo_image.destination_siteid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:ArticleDataDbEntity.saxo_image">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.saxo_pubMap.Createsaxo_pubMap(System.Int32,System.String,System.String)">
+	<summary>
+ Create a new saxo_pubMap object.
+ </summary>
+	<param name="siteid">Initial value of the siteid property.</param>
+	<param name="pubname">Initial value of the pubname property.</param>
+	<param name="destination_siteid">Initial value of the destination_siteid property.</param>
+</member><member name="P:ArticleDataDbEntity.saxo_pubMap.siteid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.saxo_pubMap.pubname">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.saxo_pubMap.destination_siteid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.saxo_pubMap.OWStarget">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.saxo_pubMap.OWSViewSearch">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.saxo_pubMap.OWSViewReplace">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:ArticleDataDbEntity.saxo_pubMap">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.sectionAnchorMap.CreatesectionAnchorMap(System.Int32,System.Int32,System.String,System.Int32,System.DateTime)">
+	<summary>
+ Create a new sectionAnchorMap object.
+ </summary>
+	<param name="id">Initial value of the id property.</param>
+	<param name="siteid">Initial value of the siteid property.</param>
+	<param name="sectionAnchor">Initial value of the sectionAnchor property.</param>
+	<param name="taxonomyCode">Initial value of the taxonomyCode property.</param>
+	<param name="ts">Initial value of the ts property.</param>
+</member><member name="P:ArticleDataDbEntity.sectionAnchorMap.id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.sectionAnchorMap.siteid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.sectionAnchorMap.sectionAnchor">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.sectionAnchorMap.sectionName">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.sectionAnchorMap.taxonomyCode">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.sectionAnchorMap.ts">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:ArticleDataDbEntity.sectionAnchorMap">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.SessionError.CreateSessionError(System.Int32,System.String,System.DateTime)">
+	<summary>
+ Create a new SessionError object.
+ </summary>
+	<param name="sessionErrorID">Initial value of the SessionErrorID property.</param>
+	<param name="sID">Initial value of the SID property.</param>
+	<param name="insertDate">Initial value of the InsertDate property.</param>
+</member><member name="P:ArticleDataDbEntity.SessionError.SessionErrorID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.SessionError.SID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.SessionError.RequestMethod">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.SessionError.ServerPort">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.SessionError.HTTPS">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.SessionError.LocalAddr">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.SessionError.HostAddress">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.SessionError.UserAgent">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.SessionError.URL">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.SessionError.CustomerRefID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.SessionError.FormData">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.SessionError.AllHTTP">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.SessionError.InsertDate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.SessionError.IsCookieLess">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.SessionError.IsNewSession">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.SessionError.Exceptions">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:ArticleDataDbEntity.SessionError">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:ArticleDataDbEntity.tracksession.Createtracksession(System.String,System.String,System.DateTime)">
+	<summary>
+ Create a new tracksession object.
+ </summary>
+	<param name="sid">Initial value of the sid property.</param>
+	<param name="xmldocument">Initial value of the xmldocument property.</param>
+	<param name="ts">Initial value of the ts property.</param>
+</member><member name="P:ArticleDataDbEntity.tracksession.sid">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.tracksession.xmldocument">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.tracksession.ts">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:ArticleDataDbEntity.tracksession">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:ArticleDataDbEntity.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ArticleDataDbEntity.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:ArticleDataDbEntity.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

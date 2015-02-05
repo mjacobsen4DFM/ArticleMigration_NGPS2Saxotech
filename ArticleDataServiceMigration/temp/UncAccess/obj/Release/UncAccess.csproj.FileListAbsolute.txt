@@ -1,0 +1,5 @@
+C:\apps\ArticleDataServiceMigration\UncAccess\bin\Release\UncAccess.dll
+C:\apps\ArticleDataServiceMigration\UncAccess\bin\Release\UncAccess.pdb
+C:\apps\ArticleDataServiceMigration\UncAccess\obj\Release\ResolveAssemblyReference.cache
+C:\apps\ArticleDataServiceMigration\UncAccess\obj\Release\UncAccess.dll
+C:\apps\ArticleDataServiceMigration\UncAccess\obj\Release\UncAccess.pdb

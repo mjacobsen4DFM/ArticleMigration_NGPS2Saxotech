@@ -1,0 +1,7 @@
+﻿<table border="1" align="left">
+ <tr>
+    <td title="<%targeturl%>">
+		    <a href="#" onclick="javascript:ShowModal('<%targeturl%>',1000,700);"><img src="<%icon%>" alt="<%status%>" width="36" /></a>
+	 </td>
+ </tr>
+</table>

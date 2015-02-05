@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E6865E23-9198-4E64-B948-5118DF5B09CB}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>ArticleDbViewer</RootNamespace>
+    <AssemblyName>ArticleDbViewer</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <FileUpgradeFlags>40</FileUpgradeFlags>
+    <UpgradeBackupLocation>C:\apps\ArticleDataServiceMigration\Backup6\ArticleDbViewer\</UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>ArticleDbViewer.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>ArticleDbViewer.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.Extensions.Design, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="System.Xml.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Collections.Specialized" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Text" />
+    <Import Include="System.Text.RegularExpressions" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.Caching" />
+    <Import Include="System.Web.SessionState" />
+    <Import Include="System.Web.Security" />
+    <Import Include="System.Web.Profile" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.WebControls" />
+    <Import Include="System.Web.UI.WebControls.WebParts" />
+    <Import Include="System.Web.UI.HtmlControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="App_Themes\Theme1\StyleSheet1.css" />
+    <Content Include="ArticleGroup.aspx" />
+    <Content Include="ArticleSiteId.aspx" />
+    <Content Include="ArticleViewer.aspx" />
+    <Content Include="bin\ArticleDbViewerSaxoInterface.dll" />
+    <Content Include="bin\ArticleDbViewerSaxoInterface.pdb" />
+    <Content Include="bin\DbCommon.dll" />
+    <Content Include="bin\DbCommon.pdb" />
+    <Content Include="bin\DbCommon.xml" />
+    <Content Include="bin\JSONDotNET.dll" />
+    <Content Include="bin\JSONDotNET.pdb" />
+    <Content Include="bin\OWC.dll" />
+    <Content Include="bin\OWC.pdb" />
+    <Content Include="bin\SmugMugModel.dll" />
+    <Content Include="bin\SmugMugModel.pdb" />
+    <Content Include="controls\BreadCrumbTrail.ascx" />
+    <Content Include="ErrorMessage.aspx" />
+    <Content Include="ImageViewer.aspx" />
+    <Content Include="jqueryTest.aspx" />
+    <Content Include="js\article.txt" />
+    <Content Include="js\jquery-1.8.3.min.js" />
+    <Content Include="js\smugtag.txt" />
+    <Content Include="js\smugTagASP.txt" />
+    <Content Include="GalleryViewer.aspx" />
+    <Content Include="saxoviewer.aspx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Code\common.vb" />
+    <Content Include="SessionTimeout.aspx" />
+    <Compile Include="App_Code\tracksession.vb" />
+    <Compile Include="ArticleGroup.aspx.designer.vb">
+      <DependentUpon>ArticleGroup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ArticleGroup.aspx.vb">
+      <DependentUpon>ArticleGroup.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ArticleSiteId.aspx.designer.vb">
+      <DependentUpon>ArticleSiteId.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ArticleSiteId.aspx.vb">
+      <DependentUpon>ArticleSiteId.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ArticleViewer.aspx.designer.vb">
+      <DependentUpon>ArticleViewer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ArticleViewer.aspx.vb">
+      <DependentUpon>ArticleViewer.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="controls\BreadCrumbTrail.ascx.designer.vb">
+      <DependentUpon>BreadCrumbTrail.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="controls\BreadCrumbTrail.ascx.vb">
+      <DependentUpon>BreadCrumbTrail.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ErrorMessage.aspx.designer.vb">
+      <DependentUpon>ErrorMessage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ErrorMessage.aspx.vb">
+      <DependentUpon>ErrorMessage.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="ImageViewer.aspx.designer.vb">
+      <DependentUpon>ImageViewer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImageViewer.aspx.vb">
+      <DependentUpon>ImageViewer.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="jqueryTest.aspx.designer.vb">
+      <DependentUpon>jqueryTest.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="jqueryTest.aspx.vb">
+      <DependentUpon>jqueryTest.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="GalleryViewer.aspx.designer.vb">
+      <DependentUpon>GalleryViewer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GalleryViewer.aspx.vb">
+      <DependentUpon>GalleryViewer.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="saxoviewer.aspx.designer.vb">
+      <DependentUpon>saxoviewer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="saxoviewer.aspx.vb">
+      <DependentUpon>saxoviewer.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="SessionTimeout.aspx.designer.vb">
+      <DependentUpon>SessionTimeout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SessionTimeout.aspx.vb">
+      <DependentUpon>SessionTimeout.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="php\config.php" />
+    <None Include="php\GetGallery.php" />
+    <None Include="php\phpSmug.php" />
+    <None Include="Templates\objects\articleviewer.pbo" />
+    <None Include="Templates\objects\example.pbo" />
+    <None Include="Templates\objects\galleryviewer.pbo" />
+    <None Include="Templates\objects\galleryitem.pbo" />
+    <None Include="Templates\objects\saxoimageitemHead.pbo" />
+    <None Include="Templates\objects\saxoimageitem.pbo" />
+    <None Include="Templates\objects\saxoviewer.pbo" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ArticleDataServiceMigration\DbCommon\DbCommon.vbproj">
+      <Project>{33A5DFD0-145A-4924-8FBE-1BADF84020BF}</Project>
+      <Name>DbCommon</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ArticleDbViewerSaxoInterface\ArticleDbViewerSaxoInterface.csproj">
+      <Project>{5B5010DF-DD84-4BAF-AF39-D06E86AF7CD2}</Project>
+      <Name>ArticleDbViewerSaxoInterface</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>20719</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost/ArticleDbViewer</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

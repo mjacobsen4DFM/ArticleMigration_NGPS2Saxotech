@@ -1,0 +1,7 @@
+C:\apps\ArticleDataServiceMigration\greet\bin\Debug\greet.exe
+C:\apps\ArticleDataServiceMigration\greet\bin\Debug\greet.pdb
+C:\apps\ArticleDataServiceMigration\greet\bin\Debug\NDesk.dll
+C:\apps\ArticleDataServiceMigration\greet\bin\Debug\NDesk.pdb
+C:\apps\ArticleDataServiceMigration\greet\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\apps\ArticleDataServiceMigration\greet\obj\x86\Debug\greet.exe
+C:\apps\ArticleDataServiceMigration\greet\obj\x86\Debug\greet.pdb

@@ -1,0 +1,61 @@
+C:\Applications\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\ArticleDataServiceMigration.exe.config
+C:\Applications\ArticleDataServiceMigration\ArticleDataServiceMigration\obj\Debug\ArticleDataServiceMigration.exe
+C:\Applications\ArticleDataServiceMigration\ArticleDataServiceMigration\obj\Debug\ArticleDataServiceMigration.pdb
+C:\Applications\ArticleDataServiceMigration\ArticleDataServiceMigration\obj\Debug\ResolveAssemblyReference.cache
+C:\Applications\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\ArticleDataServiceMigration.exe
+C:\Applications\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\ArticleDataServiceMigration.pdb
+C:\Applications\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\db2DataSet.dll
+C:\Applications\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\DbCommon.dll
+C:\Applications\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\db2DataSet.pdb
+C:\Applications\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\DbCommon.pdb
+C:\Applications\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\DbCommon.xml
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\ArticleDataServiceMigration.exe.config
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\ArticleDataServiceMigration.exe
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\ArticleDataServiceMigration.pdb
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\BusinessRule.dll
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\DataModels.dll
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\db2DataSet.dll
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\DbCommon.dll
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\NDesk.dll
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\DataAuthentication.dll
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\OWC.dll
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\UncAccess.dll
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\BusinessRule.pdb
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\BusinessRule.xml
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\DataModels.pdb
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\db2DataSet.pdb
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\DbCommon.pdb
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\DbCommon.xml
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\NDesk.pdb
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\DataAuthentication.pdb
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\DataAuthentication.xml
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\OWC.pdb
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\UncAccess.pdb
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\obj\Debug\ResolveAssemblyReference.cache
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\obj\Debug\ArticleDataServiceMigration.exe
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\obj\Debug\ArticleDataServiceMigration.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\ArticleDataServiceMigration.exe.config
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\ArticleDataServiceMigration.exe
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\ArticleDataServiceMigration.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\BusinessRule.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\DataModels.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\db2DataSet.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\DbCommon.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\NDesk.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\DataAuthentication.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\OWC.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\UncAccess.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\BusinessRule.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\BusinessRule.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\DataModels.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\db2DataSet.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\DbCommon.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\DbCommon.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\NDesk.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\DataAuthentication.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\DataAuthentication.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\OWC.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\bin\Debug\UncAccess.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\obj\Debug\ArticleDataServiceMigration.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\obj\Debug\ArticleDataServiceMigration.exe
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\obj\Debug\ArticleDataServiceMigration.pdb

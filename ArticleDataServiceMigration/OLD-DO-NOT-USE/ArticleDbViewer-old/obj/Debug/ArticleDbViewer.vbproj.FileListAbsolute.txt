@@ -1,0 +1,16 @@
+c:\apps\ArticleDataServiceMigration\ArticleDbViewer\bin\ArticleDbViewer.dll
+c:\apps\ArticleDataServiceMigration\ArticleDbViewer\bin\ArticleDbViewer.pdb
+c:\apps\ArticleDataServiceMigration\ArticleDbViewer\bin\ArticleDbViewer.xml
+c:\apps\ArticleDataServiceMigration\ArticleDbViewer\bin\ArticleDbViewerSaxoInterface.dll
+c:\apps\ArticleDataServiceMigration\ArticleDbViewer\bin\DbCommon.dll
+c:\apps\ArticleDataServiceMigration\ArticleDbViewer\bin\OWC.dll
+c:\apps\ArticleDataServiceMigration\ArticleDbViewer\bin\OWC.pdb
+c:\apps\ArticleDataServiceMigration\ArticleDbViewer\bin\DbCommon.pdb
+c:\apps\ArticleDataServiceMigration\ArticleDbViewer\bin\DbCommon.xml
+c:\apps\ArticleDataServiceMigration\ArticleDbViewer\bin\ArticleDbViewerSaxoInterface.pdb
+c:\apps\ArticleDataServiceMigration\ArticleDbViewer\obj\Debug\ResolveAssemblyReference.cache
+c:\apps\ArticleDataServiceMigration\ArticleDbViewer\obj\Debug\ArticleDbViewer.Resources.resources
+c:\apps\ArticleDataServiceMigration\ArticleDbViewer\obj\Debug\ArticleDbViewer.vbproj.GenerateResource.Cache
+c:\apps\ArticleDataServiceMigration\ArticleDbViewer\obj\Debug\ArticleDbViewer.dll
+c:\apps\ArticleDataServiceMigration\ArticleDbViewer\obj\Debug\ArticleDbViewer.xml
+c:\apps\ArticleDataServiceMigration\ArticleDbViewer\obj\Debug\ArticleDbViewer.pdb

@@ -1,0 +1,5 @@
+﻿<div class="div-table-row">
+    <div class="div-table-col"><%row%></div>
+    <div class="div-table-col"><%asset_uid%></div>
+    <div class="div-table-col"><%url%></div>
+</div> 

@@ -1,0 +1,17 @@
+truncate table article
+truncate table article_lock
+truncate table article_override
+truncate table articleEditOrg
+truncate table asset
+truncate table freeform
+truncate table image
+truncate table image_tracker
+truncate table logstatements
+truncate table migrationError
+truncate table pdf
+truncate table saxo_article
+truncate table saxo_gallery
+truncate table saxo_image
+truncate table tracksession
+
+

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xmldocument>
+  <fields>
+    <siteuri></siteuri>
+    <site></site>
+    <status>published</status>
+    
+
+    <startdate></startdate>
+    <keywords />
+    <category_saxo />
+    <taxonomywords />
+    <heading />
+    <summary />
+    <body />
+    <byline />
+    <image />
+    <imageCaption />
+    <gallerypathuid />
+    <galleryuid />
+    <!-- Extra Fields Follow-->
+    <siteid></siteid>
+    <origsite></origsite>
+   
+    <contentid />
+    <category />
+    <anchor />
+    <seodescription />
+    <relatedarticles />
+    <enddate></enddate>
+  </fields>
+</xmldocument>

@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head runat="server">
+    <title>Gallery Viewer</title>
+    <style type="text/css">
+		.div-table{display:table; border:1px solid #003399;}
+		.div-table-caption{display:table-caption; background:#87CEFE;font-size:1.5em;text-align:center;}
+		.div-table-caption2{display:table-caption; background:#87CEFE;font-size:.95em;text-align:center;}
+		.div-table-row{display:table-row;}
+		.div-table-col{display:table-cell; padding: 5px; border: 1px solid #003399;}
+	</style>
+</head>
+<body>
+<div class="div-table">
+	<div class="div-table-caption">Smug Mug Galleries Viewer </div>
+	<div class="div-table-caption2">Checkbox under image marks for removal on SmugMug </div>
+	<div class="div-table-caption2">Utility SmugMugCleanup does final removal </div>
+	<div class="div-table-row">
+		<div class="div-table-col">row</div>
+		<div class="div-table-col">article id</div>
+		<div class="div-table-col">start date</div>
+		<div class="div-table-col">category</div>
+		<div class="div-table-col">caption</div>
+		<div class="div-table-col">Gallery</div>
+	</div>
+   <%GalleryItemsCollection%>
+</div> <!-- div-table -->
+</body>
+</html>

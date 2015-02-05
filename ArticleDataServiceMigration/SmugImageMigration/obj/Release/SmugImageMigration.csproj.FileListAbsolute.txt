@@ -1,0 +1,15 @@
+c:\apps\ArticleDataServiceMigration\SmugImageMigration\bin\Release\SmugImageMigration.exe.config
+c:\apps\ArticleDataServiceMigration\SmugImageMigration\bin\Release\SmugImageMigration.exe
+c:\apps\ArticleDataServiceMigration\SmugImageMigration\bin\Release\SmugImageMigration.pdb
+c:\apps\ArticleDataServiceMigration\SmugImageMigration\bin\Release\DbCommon.dll
+c:\apps\ArticleDataServiceMigration\SmugImageMigration\bin\Release\OWC.dll
+c:\apps\ArticleDataServiceMigration\SmugImageMigration\bin\Release\SmugMugModel.dll
+c:\apps\ArticleDataServiceMigration\SmugImageMigration\bin\Release\JSONDotNET.dll
+c:\apps\ArticleDataServiceMigration\SmugImageMigration\bin\Release\OWC.pdb
+c:\apps\ArticleDataServiceMigration\SmugImageMigration\bin\Release\JSONDotNET.pdb
+c:\apps\ArticleDataServiceMigration\SmugImageMigration\bin\Release\SmugMugModel.pdb
+c:\apps\ArticleDataServiceMigration\SmugImageMigration\bin\Release\DbCommon.pdb
+c:\apps\ArticleDataServiceMigration\SmugImageMigration\bin\Release\DbCommon.xml
+c:\apps\ArticleDataServiceMigration\SmugImageMigration\obj\Release\ResolveAssemblyReference.cache
+c:\apps\ArticleDataServiceMigration\SmugImageMigration\obj\Release\SmugImageMigration.exe
+c:\apps\ArticleDataServiceMigration\SmugImageMigration\obj\Release\SmugImageMigration.pdb

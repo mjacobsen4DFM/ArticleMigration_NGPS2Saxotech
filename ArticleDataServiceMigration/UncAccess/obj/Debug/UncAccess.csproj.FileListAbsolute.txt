@@ -1,0 +1,8 @@
+C:\apps\ArticleDataServiceMigration\UncAccess\bin\Debug\UncAccess.dll
+C:\apps\ArticleDataServiceMigration\UncAccess\bin\Debug\UncAccess.pdb
+C:\apps\ArticleDataServiceMigration\UncAccess\obj\Debug\UncAccess.dll
+C:\apps\ArticleDataServiceMigration\UncAccess\obj\Debug\UncAccess.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UncAccess\bin\Debug\UncAccess.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UncAccess\bin\Debug\UncAccess.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UncAccess\obj\Debug\UncAccess.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\UncAccess\obj\Debug\UncAccess.pdb

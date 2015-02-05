@@ -1,0 +1,36 @@
+C:\apps\ngps2saxo\ngps2saxoxml\DbCommon\bin\Release\DbCommon.dll
+C:\apps\ngps2saxo\ngps2saxoxml\DbCommon\bin\Release\DbCommon.pdb
+C:\apps\ngps2saxo\ngps2saxoxml\DbCommon\bin\Release\DbCommon.xml
+C:\apps\ngps2saxo\ngps2saxoxml\DbCommon\obj\Release\ResolveAssemblyReference.cache
+C:\apps\ngps2saxo\ngps2saxoxml\DbCommon\obj\Release\DbCommon.Resources.resources
+C:\apps\ngps2saxo\ngps2saxoxml\DbCommon\obj\Release\DbCommon.vbproj.GenerateResource.Cache
+C:\apps\ngps2saxo\ngps2saxoxml\DbCommon\obj\Release\DbCommon.dll
+C:\apps\ngps2saxo\ngps2saxoxml\DbCommon\obj\Release\DbCommon.xml
+C:\apps\ngps2saxo\ngps2saxoxml\DbCommon\obj\Release\DbCommon.pdb
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\DbCommon\bin\Release\DbCommon.dll
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\DbCommon\bin\Release\DbCommon.pdb
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\DbCommon\bin\Release\DbCommon.xml
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\DbCommon\obj\Release\ResolveAssemblyReference.cache
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\DbCommon\obj\Release\DbCommon.Resources.resources
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\DbCommon\obj\Release\DbCommon.vbproj.GenerateResource.Cache
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\DbCommon\obj\Release\DbCommon.dll
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\DbCommon\obj\Release\DbCommon.xml
+C:\apps\ArticleDataServiceMigration\ArticleDataServiceMigration\DbCommon\obj\Release\DbCommon.pdb
+C:\apps\ArticleDataServiceMigration\DbCommon\bin\Release\DbCommon.dll
+C:\apps\ArticleDataServiceMigration\DbCommon\bin\Release\DbCommon.pdb
+C:\apps\ArticleDataServiceMigration\DbCommon\bin\Release\DbCommon.xml
+C:\apps\ArticleDataServiceMigration\DbCommon\obj\Release\ResolveAssemblyReference.cache
+C:\apps\ArticleDataServiceMigration\DbCommon\obj\Release\DbCommon.Resources.resources
+C:\apps\ArticleDataServiceMigration\DbCommon\obj\Release\DbCommon.dll
+C:\apps\ArticleDataServiceMigration\DbCommon\obj\Release\DbCommon.xml
+C:\apps\ArticleDataServiceMigration\DbCommon\obj\Release\DbCommon.pdb
+C:\apps\ArticleDataServiceMigration\DbCommon\obj\Release\GenerateResource.read.1.tlog
+C:\apps\ArticleDataServiceMigration\DbCommon\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\DbCommon\bin\Release\DbCommon.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\DbCommon\bin\Release\DbCommon.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\DbCommon\bin\Release\DbCommon.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\DbCommon\obj\Release\DbCommon.Resources.resources
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\DbCommon\obj\Release\DbCommon.vbproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\DbCommon\obj\Release\DbCommon.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\DbCommon\obj\Release\DbCommon.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\DbCommon\obj\Release\DbCommon.pdb

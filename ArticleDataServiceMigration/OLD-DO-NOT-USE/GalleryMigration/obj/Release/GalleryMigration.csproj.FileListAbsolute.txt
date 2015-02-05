@@ -1,0 +1,11 @@
+c:\apps\ArticleDataServiceMigration\GalleryMigration\bin\Release\GalleryMigration.exe.config
+c:\apps\ArticleDataServiceMigration\GalleryMigration\bin\Release\GalleryMigration.exe
+c:\apps\ArticleDataServiceMigration\GalleryMigration\bin\Release\GalleryMigration.pdb
+c:\apps\ArticleDataServiceMigration\GalleryMigration\bin\Release\DbCommon.dll
+c:\apps\ArticleDataServiceMigration\GalleryMigration\bin\Release\OWC.dll
+c:\apps\ArticleDataServiceMigration\GalleryMigration\bin\Release\OWC.pdb
+c:\apps\ArticleDataServiceMigration\GalleryMigration\bin\Release\DbCommon.pdb
+c:\apps\ArticleDataServiceMigration\GalleryMigration\bin\Release\DbCommon.xml
+c:\apps\ArticleDataServiceMigration\GalleryMigration\obj\Release\ResolveAssemblyReference.cache
+c:\apps\ArticleDataServiceMigration\GalleryMigration\obj\Release\GalleryMigration.exe
+c:\apps\ArticleDataServiceMigration\GalleryMigration\obj\Release\GalleryMigration.pdb

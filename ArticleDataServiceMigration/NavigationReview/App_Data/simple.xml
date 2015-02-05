@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>  
+<ToolBox>  
+  <Item Name="Standard Toolbox Controls">  
+    <Option Control="AdRotator" />  
+    <Option Control="BulletedList" />  
+    <Option Control="CheckBox" />  
+    <Option Control="FileUpload" />  
+    <Option Control="MultiView" />  
+  </Item>  
+  <Item Name="Data Toolbox Controls">  
+    <Option Control="ListView" />  
+    <Option Control="GridView" />  
+    <Option Control="LinqDataSource" />  
+    <Option Control="XmlDataSource" />  
+  </Item>  
+  <Item Name="Validation Toolbox Controls">  
+    <Option Control="CompareValidator" />  
+    <Option Control="CustomValidator" />  
+  </Item>  
+  <Item Name="Navigation Toolbox Controls">  
+    <Option Control="Menu" />  
+    <Option Control="SiteMapPath" />  
+    <Option Control="TreeView" />  
+  </Item>  
+</ToolBox>  

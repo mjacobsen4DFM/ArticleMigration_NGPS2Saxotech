@@ -1,0 +1,12 @@
+﻿ <table border="1" align="left">
+<tr>
+     <td title="<%asset_uid%>">
+		     <img src="<%imagepath%>"  title="<%caption%>" alt="<%asset_uid%>" width="<%width%>" />
+	   </td>
+</tr>
+<tr>
+     <td title="size" align="center" <%style%>>
+        <input type="checkbox" id="<%article_uid%>_<%asset_uid%>"  class="mycheckbox"  <%checked%>> remove
+    </td>
+</tr>
+</table>

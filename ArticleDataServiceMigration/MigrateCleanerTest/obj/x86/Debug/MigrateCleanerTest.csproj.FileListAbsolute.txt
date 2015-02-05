@@ -1,0 +1,45 @@
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\MigrateCleanerTest.exe.config
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\MigrateCleanerTest.exe
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\MigrateCleanerTest.pdb
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\BusinessRule.dll
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\DataAuthentication.dll
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\OWC.dll
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\UncAccess.dll
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\DbCommon.dll
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\BusinessRule.pdb
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\BusinessRule.xml
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\DataAuthentication.pdb
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\DataAuthentication.xml
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\OWC.pdb
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\UncAccess.pdb
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\DbCommon.pdb
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\DbCommon.xml
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\obj\x86\Debug\MigrateCleanerTest.Form1.resources
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\obj\x86\Debug\MigrateCleanerTest.Properties.Resources.resources
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\obj\x86\Debug\MigrateCleanerTest.exe
+C:\apps\ArticleDataServiceMigration\MigrateCleanerTest\obj\x86\Debug\MigrateCleanerTest.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\MigrateCleanerTest.exe.config
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\MigrateCleanerTest.exe
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\MigrateCleanerTest.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\BusinessRule.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\DataAuthentication.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\OWC.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\UncAccess.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\DbCommon.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\BusinessRule.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\BusinessRule.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\DataAuthentication.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\DataAuthentication.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\OWC.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\UncAccess.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\DbCommon.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\MigrateCleanerTest\bin\Debug\DbCommon.xml
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\MigrateCleanerTest\obj\x86\Debug\MigrateCleanerTest.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\MigrateCleanerTest\obj\x86\Debug\MigrateCleanerTest.Form1.resources
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\MigrateCleanerTest\obj\x86\Debug\MigrateCleanerTest.Properties.Resources.resources
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\MigrateCleanerTest\obj\x86\Debug\MigrateCleanerTest.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\MigrateCleanerTest\obj\x86\Debug\MigrateCleanerTest.exe
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\MigrateCleanerTest\obj\x86\Debug\MigrateCleanerTest.pdb

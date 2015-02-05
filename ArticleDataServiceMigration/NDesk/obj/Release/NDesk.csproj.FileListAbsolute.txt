@@ -1,0 +1,9 @@
+C:\apps\ArticleDataServiceMigration\NDesk\bin\Release\NDesk.dll
+C:\apps\ArticleDataServiceMigration\NDesk\bin\Release\NDesk.pdb
+C:\apps\ArticleDataServiceMigration\NDesk\obj\Release\ResolveAssemblyReference.cache
+C:\apps\ArticleDataServiceMigration\NDesk\obj\Release\NDesk.dll
+C:\apps\ArticleDataServiceMigration\NDesk\obj\Release\NDesk.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NDesk\bin\Release\NDesk.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NDesk\bin\Release\NDesk.pdb
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NDesk\obj\Release\NDesk.dll
+C:\Users\Michael\Documents\Cloud\Google Drive\Work\Projects\ADSM\apps\ArticleDataServiceMigration\NDesk\obj\Release\NDesk.pdb

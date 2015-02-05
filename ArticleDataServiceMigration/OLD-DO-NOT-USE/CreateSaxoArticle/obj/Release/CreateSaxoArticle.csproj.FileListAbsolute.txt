@@ -1,0 +1,9 @@
+c:\apps\ArticleDataServiceMigration\CreateSaxoArticle\bin\Release\CreateSaxoArticle.exe.config
+c:\apps\ArticleDataServiceMigration\CreateSaxoArticle\bin\Release\CreateSaxoArticle.exe
+c:\apps\ArticleDataServiceMigration\CreateSaxoArticle\bin\Release\CreateSaxoArticle.pdb
+c:\apps\ArticleDataServiceMigration\CreateSaxoArticle\bin\Release\DbCommon.dll
+c:\apps\ArticleDataServiceMigration\CreateSaxoArticle\bin\Release\DbCommon.pdb
+c:\apps\ArticleDataServiceMigration\CreateSaxoArticle\bin\Release\DbCommon.xml
+c:\apps\ArticleDataServiceMigration\CreateSaxoArticle\obj\Release\ResolveAssemblyReference.cache
+c:\apps\ArticleDataServiceMigration\CreateSaxoArticle\obj\Release\CreateSaxoArticle.exe
+c:\apps\ArticleDataServiceMigration\CreateSaxoArticle\obj\Release\CreateSaxoArticle.pdb
